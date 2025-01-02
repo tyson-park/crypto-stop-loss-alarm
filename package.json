@@ -10,19 +10,26 @@
   },
   "dependencies": {
     "@radix-ui/react-slot": "^1.1.1",
+    "chart.js": "^4.4.7",
+    "chartjs-adapter-date-fns": "^3.0.0",
+    "chartjs-chart-financial": "^0.2.1",
     "class-variance-authority": "^0.7.1",
     "clsx": "^2.1.1",
+    "discord.js": "^14.17.2",
     "lucide-react": "^0.468.0",
     "next": "15.1.1",
+    "node-gyp": "^11.0.0",
+    "node-loader": "^2.1.0",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
     "tailwind-merge": "^2.5.5",
     "tailwindcss-animate": "^1.0.7",
-    "technicalindicators": "^3.1.0"
+    "technicalindicators": "^3.1.0",
+    "zlib-sync": "^0.1.9"
   },
   "devDependencies": {
     "@eslint/eslintrc": "^3",
-    "@types/node": "^20",
+    "@types/node": "^22.10.3",
     "@types/react": "^19",
     "@types/react-dom": "^19",
     "eslint": "^9",
